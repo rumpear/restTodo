@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/restTodo/static/css/main.5ee0ab1b.css",
+    "main.js": "/restTodo/static/js/main.b9fa95de.js",
+    "index.html": "/restTodo/index.html",
+    "main.5ee0ab1b.css.map": "/restTodo/static/css/main.5ee0ab1b.css.map",
+    "main.b9fa95de.js.map": "/restTodo/static/js/main.b9fa95de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ee0ab1b.css",
+    "static/js/main.b9fa95de.js"
+  ]
+}
